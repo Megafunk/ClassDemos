@@ -14,6 +14,8 @@
         <siteMapNode url="~/SiteMapPages/Consulting.aspx" title="Consulting" description="consulting" />
         <siteMapNode url="~/SiteMapPages/Support.aspx" title="Support" description="support" />
       </siteMapNode>
-      
-    </siteMapNode>
+      <siteMapNode title="Demos" description="class demos">
+         <siteMapNode url="~/DemoPages/ReservationbyTypes.aspx" title="Reservations by type" description="Reservations by type" />
+      </siteMapNode>
+      </siteMapNode>
 </siteMap>
